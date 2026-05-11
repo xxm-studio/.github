@@ -2,7 +2,7 @@
   <img src="https://xxmstudio.com/avatar.png" width="96" alt="XXM Studio">
 </p>
 
-<h3 align="center">Crafting indie games &amp; small software.</h3>
+<h3 align="center">Crafting indie games, software, music &amp; tools.</h3>
 
 <p align="center">
   <a href="https://xxmstudio.com">xxmstudio.com</a>
